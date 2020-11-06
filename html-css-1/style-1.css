@@ -8,6 +8,7 @@ header {
     width: 650px;
     margin-left: 75px;
     border: solid black 1.5px;
+    box-sizing: border-box;
 
 }
 
