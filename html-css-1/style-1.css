@@ -1,0 +1,78 @@
+body{
+    margin-top: 25px;
+}
+
+header {
+    background-color:rgb(236,130,130) ;
+    height: 90px;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black 1.5px;
+
+}
+
+.Welcome {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: 15px;
+    
+}
+
+
+#Home {
+    margin-left: 265px;
+    margin-top: -18px;
+}
+
+#About {
+    margin-left: 365px;
+    margin-top: -15px;
+}
+
+#Logout {
+    margin-left: 465px;
+    margin-top: -15px;
+}
+
+
+
+.Dot1 {
+    margin-top: 7px; 
+    width: 625px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: dotted black 3px;
+}
+
+.About {
+    margin-top: -180px;
+    margin-left: 110px;
+    font-weight: 800;
+    ;
+}
+
+
+
+img {
+    width: 105px;
+    height: 105px;
+}
+
+
+.html-logo {
+    margin-left: 120px;
+    margin-top: 20px;
+    float: left;
+}
+
+
+
+.Body {
+    font-size: 11.5px;
+    margin-top: 20px;
+    width: 700px;
+
+}
