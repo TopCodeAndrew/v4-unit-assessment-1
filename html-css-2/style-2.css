@@ -1,8 +1,7 @@
 header {
-    margin-left:  auto;
-    margin-right: auto;
+    margin-left:  15px;
+    margin-right: 15px;
     margin-top: 20px;
-    width: 90%;
     height: 60px;
     background-color: rgb(136,252,214);
     border-top: solid black 1px;
@@ -16,17 +15,140 @@ header {
 }
 
 
-
-
-
-
-
-
-
-
-.rectangles {
-    margin-top: 900px;
+.titles {
+    font-size: 15px;
+    font-weight: 700;
 }
+
+
+.section {
+    margin-top: 15px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.r-box {
+    border: dotted rgb(119,115,167) 1px;
+    height: 150px;
+    position: relative;
+    padding
+}
+
+
+.purple-rectangle {
+    border: solid red 2px;
+    height: 60px;
+    width: 130px;
+    margin: 15px;
+    background-color: rgb(72,25,127);
+    position: absolute;
+    bottom: 0px;
+}
+
+
+.blue-rectangle {
+    height: 60px;
+    width: 60px;
+    margin: 15px;
+    margin-left: 170px;
+    background-color: rgb(1,53,247);
+    position: absolute;
+    bottom: 0px;
+    box-shadow: 4px 4px 10px;
+}
+
+.pink-rectangle {
+    border: solid black 1px;
+    height: 120px;
+    width: 120px;
+    margin: 15px;
+    margin-left: 255px;
+    background-color:rgb(215,116,147);
+    position: absolute;
+    bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.c-box {
+    border: dotted rgb(119,115,167) 1px;
+    height: 280px;
+    position: relative;
+    padding
+}
+
+
+.top-circ {
+    border: solid black 1px;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+    margin-left: 20px;
+    position: absolute;
+    top: 0px;
+}
+
+
+.mid-circ {
+    border: solid black 1px;
+    border-radius: 50%;
+    height: 85px;
+    width: 85px;
+    margin: 10px;
+    margin-left: 15px;
+    position: absolute;
+    bottom: 101px;
+}
+
+.bottom-circ {
+    border: solid black 1px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    margin-left: 10px;
+    position: absolute;
+    bottom: 0px;
+
+
+
+
+
+
+
+
+
+
+
+
 
 #button-eyes {
     width: 15px;
